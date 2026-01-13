@@ -11,6 +11,7 @@ use Illuminate\Support\Facades\DB;
 
 class AuthController extends Controller
 {
+    //Para abrir la ducumentacion de la API http://127.0.0.1:8000/docs/api
     /**
      * register.admin
      * @unauthenticated
